@@ -40,7 +40,7 @@ No Linux:
 No terminal, rode:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/andersonpem/instalar-homebrew/main/homebrew.sh | bash
+curl -fsSL https://raw.githubusercontent.com/andersonpem/instalar-homebrew/master/homebrew.sh | bash
 ```
 
 Esse comando:
@@ -139,4 +139,4 @@ Este projeto é útil para:
 
 ## Licença
 
-Este projeto está licenciado sob a licença `MIT`. Veja o arquivo [LICENSE](/Users/andy/repos/instalar-homebrew/LICENSE).
+Este projeto está licenciado sob a licença `AGPL-3.0`. Veja o arquivo [LICENSE](/Users/andy/repos/instalar-homebrew/LICENSE).
